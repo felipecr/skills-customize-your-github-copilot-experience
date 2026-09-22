@@ -1,18 +1,18 @@
 
 # 📘 Assignment: Hangman Game
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Build a hangman game in Python using strings, loops, and user input while practicing conditional logic and random selection.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Create the game logic
 
-#### Description
+#### Descrição
 Develop a program that selects a random word from a predefined list and lets the player guess letters until the word is completed or the attempts run out.
 
-#### Requirements
+#### Requisitos
 O programa concluído deve:
 
 - choose a random word from a predefined list
@@ -23,10 +23,10 @@ O programa concluído deve:
 
 ### 🛠️ Show feedback to the player
 
-#### Description
+#### Descrição
 Add clear messages and progress information so the player understands the current status of the game and knows what happens after each turn.
 
-#### Requirements
+#### Requisitos
 O programa concluído deve:
 
 - display win and loss messages
