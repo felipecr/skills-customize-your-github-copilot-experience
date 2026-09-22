@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-fastapi",
+      "title": "SQLite Persistence with FastAPI",
+      "description": "Build a FastAPI app that stores and retrieves tasks in SQLite.",
+      "path": "assignments/sqlite-fastapi",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
